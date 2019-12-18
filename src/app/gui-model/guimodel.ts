@@ -132,6 +132,7 @@ export class GuiModel {
                    "icon": 
                    "fa-weixin",
                    "color": "green","form": {"form": "GroupForm"}}]}
+                {"type": "list","icon":"fa-weixin","color": "wisteria","search": true,"url": "/group","form": {"form": "GroupForm"}},
                 {
                     "id": "mainmenu",
                     "name": "MainMenu",

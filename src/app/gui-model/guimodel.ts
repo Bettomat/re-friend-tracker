@@ -50,6 +50,9 @@ export class GuiModel {
                             "maxLength": 5000,
                         },
                         {
+                        "type": "newButton","form": {"form": "GroupForm"}
+                        }
+                        {
                             "type": "deleteButton",
                             "name": "Delete"
                         },

@@ -163,7 +163,7 @@ export class GuiModel {
                             "url": "/friend",
                             "form": {
                                 "form": "FriendForm"
-                            }
+                            }{"id": "nickname","type": "text","name": "Nickname","width": 2,"required": true},
                         },
                     ]
                 },

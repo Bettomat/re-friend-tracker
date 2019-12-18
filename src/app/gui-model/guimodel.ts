@@ -120,6 +120,8 @@ export class GuiModel {
                             "name": "Ok"
                         }
                     ]
+                    {"id": "GroupForm","title": "Group","url": "/group","formFieldList": [{"id": "name","type": "text","name": "GroupName","width": 2,"required": true},
+                {"type": "deleteButton","name": "Delete"},{"type": "cancelButton","name": "Cancel"},{"type": "okButton","name": "Ok"}]}
                 },
             ],
             "pageList": [
